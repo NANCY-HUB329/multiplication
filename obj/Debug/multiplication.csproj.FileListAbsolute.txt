@@ -1,0 +1,7 @@
+C:\Users\Nancy\Desktop\my c projects\multiplication\obj\Debug\multiplication.csproj.AssemblyReference.cache
+C:\Users\Nancy\Desktop\my c projects\multiplication\obj\Debug\multiplication.csproj.CoreCompileInputs.cache
+C:\Users\Nancy\Desktop\my c projects\multiplication\bin\Debug\multiplication.exe.config
+C:\Users\Nancy\Desktop\my c projects\multiplication\bin\Debug\multiplication.exe
+C:\Users\Nancy\Desktop\my c projects\multiplication\bin\Debug\multiplication.pdb
+C:\Users\Nancy\Desktop\my c projects\multiplication\obj\Debug\multiplication.exe
+C:\Users\Nancy\Desktop\my c projects\multiplication\obj\Debug\multiplication.pdb
